@@ -1,3 +1,3 @@
-function sayHi() {
-  return "Oi!";
+function sayHi(nome) {
+  return "Oi! "+ nome;
 }
