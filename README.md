@@ -1,8 +1,5 @@
-# curso_git_github
 
-
-
-## GIT
+## Git e Github
 
  * O Git é um software de controle de versão, nos permitindo ter versões de um arquivos e manipular as alterações sofridas no mesmo ao longo do desenvolvimento. 
 
